@@ -1,0 +1,8 @@
+pytesseract
+pillow
+numpy
+scipy
+opencv-python
+pytest
+pytest-cov
+unittest-mock
