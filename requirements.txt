@@ -1,8 +1,10 @@
 pytesseract
 pillow
+scikit-learn
+pandas
 numpy
 scipy
 opencv-python
 pytest
 pytest-cov
-unittest-mock
+spacy
