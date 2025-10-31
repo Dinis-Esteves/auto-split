@@ -335,5 +335,8 @@ def main(argc=None, argv=None):
         print(f"[ERROR] An error occurred while processing the invoice: {str(e)}")
         print("Please check that the image file is valid and readable.")
 
+def read_invoice():
+    main(len(sys.argv), sys.argv)
+
 if __name__ == "__main__":
     main(len(sys.argv), sys.argv)
